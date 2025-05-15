@@ -1,0 +1,10 @@
+rich>=13.3.5
+requests>=2.27.1
+fake_useragent>=1.1.3
+colorama>=0.4.6
+termcolor>=2.0.0
+better-proxy>=0.2.0
+httpx>=0.24.0
+aiohttp>=3.8.5
+anticaptchaofficial>=1.0.55 
+questionary>=2.1.0

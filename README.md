@@ -1,5 +1,3 @@
-<img width="450" alt="Снимок экрана 2025-05-15 072138" src="https://github.com/user-attachments/assets/a9325423-9c92-4993-ae09-29b046a1db28" />
-
 ### Описание
  Мощный автоматизированный инструмент для работы с платформой OpenLoop, который позволяет автоматизировать процесс регистрации, авторизации и фарминга токенов. Инструмент оптимизирован для работы с большим количеством аккаунтов и обеспечивает стабильную работу через систему прокси.
 
@@ -62,7 +60,7 @@ OpenLoop is a powerful automated tool for working with the OpenLoop platform, de
 - 🔄 Automatic account registration using invite codes
 - 🔐 Automatic authorization and token management
 - 🌐 Proxy support with automatic rotation
-- 🛡️ Turnstile protection bypass  
+- 🛡️ Turnstile protection bypass 
 - 📊 Real-time balance and statistics monitoring
 - 📝 Detailed operation logging
 - ⚡ Multi-threaded account processing
