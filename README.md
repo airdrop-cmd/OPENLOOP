@@ -7,7 +7,7 @@
 - 🔄 Автоматическая регистрация аккаунтов с использованием инвайт-кодов
 - 🔐 Автоматическая авторизация и управление токенами
 - 🌐 Поддержка работы через прокси с автоматической ротацией
-- 🛡️ Обход защиты Turnstile (автоматическое решение капчи)
+- 🛡️ Обход защиты Turnstile 
 - 📊 Мониторинг балансов и статистики в реальном времени
 - 📝 Подробное логирование всех операций
 - ⚡ Многопоточная обработка аккаунтов
@@ -62,7 +62,7 @@ OpenLoop is a powerful automated tool for working with the OpenLoop platform, de
 - 🔄 Automatic account registration using invite codes
 - 🔐 Automatic authorization and token management
 - 🌐 Proxy support with automatic rotation
-- 🛡️ Turnstile protection bypass (automatic captcha solving)
+- 🛡️ Turnstile protection bypass  
 - 📊 Real-time balance and statistics monitoring
 - 📝 Detailed operation logging
 - ⚡ Multi-threaded account processing
